@@ -4,7 +4,11 @@
 		<title> Hola Mundo </title>
 	</head>
 	<body>
+<<<<<<< HEAD
 	<div> Hola mundo! Hola España </div>
+=======
+	<div> Hola mundo! Hola Italia </div>
+>>>>>>> a5c5a189075ce5952e1e9373c485e7a4fb03e851
 	
 	</body>
 
